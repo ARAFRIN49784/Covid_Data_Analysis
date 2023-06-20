@@ -12,3 +12,4 @@ smtplib library (for sending emails)
 email.mime library (for constructing email messages)
 
 # Image of chart
+![Figure_1](https://github.com/ARAFRIN49784/Covid_Data_Analysis/assets/102244024/5fdb863a-b43f-4487-8d13-2533b81919af)
